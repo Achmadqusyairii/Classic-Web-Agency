@@ -11,7 +11,7 @@ padding: 17px;
 }
 
 body{
-    background: #f8f9fa;
+    background: #d7d7d7;
 }
 
 img.kananbawah {
@@ -48,4 +48,65 @@ img.camera {
     float: left;
     margin: -528px;
     margin-top: 50px;
+}
+
+img.klipone {
+    float: left;
+    margin: -200px;
+    margin-top: 500px;
+}
+
+img.kliptwo {
+    float: left;
+    margin: -100px;
+    margin-top: 490px;
+}
+
+img.vas {
+    float: right;
+    margin: -400px;
+    margin-top: 50px;
+}
+
+
+H1{position: absolute;
+margin: 50px;
+width: 1130px;
+height: 100px;
+left: 323px;
+top: 258px;
+
+font-family: 'poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 100px;
+line-height: 100px;
+/* identical to box height, or 100% */
+
+text-align: center;
+letter-spacing: -0.2px;
+
+color: #232323;
+}
+
+
+h2{
+    position: absolute;
+width: 531px;
+height: 28px;
+left: 670px;
+top: 450px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 28px;
+/* identical to box height, or 117% */
+
+letter-spacing: 0.3px;
+
+color: #6B6B6B;
+
+opacity: 0.7;
 }
