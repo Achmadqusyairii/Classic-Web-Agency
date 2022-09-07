@@ -6,8 +6,46 @@ height: 100px;
 left: 115px;
 top: 0px;
 font-family: Poppins;
+padding: 17px;
+
 }
 
 body{
     background: #f8f9fa;
+}
+
+img.kananbawah {
+    float: right;
+    margin: 1px;
+    margin-top: 570px;
+}
+
+img.penbawah {
+    float: right;
+    margin: -100px;
+    margin-top: 400px;
+}
+
+img.kertasbawah {
+    float: left;
+    margin: 1px;
+    margin-top: 340px;
+}
+
+img.penkertas {
+    float: left;
+    margin: -370px;
+    margin-top: 705px;
+}
+
+img.penbesar {
+    float: left;
+    margin: -370px;
+    margin-top: 500px;
+}
+
+img.camera {
+    float: left;
+    margin: -528px;
+    margin-top: 50px;
 }
