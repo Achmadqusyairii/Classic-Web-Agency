@@ -110,3 +110,41 @@ color: #6B6B6B;
 
 opacity: 0.7;
 }
+
+button.btn{
+    box-sizing: border-box;
+
+position: absolute;
+width: 200px;
+height: 60px;
+left: 820px;
+top: 500px;
+margin: 20px;
+
+background: #FF214F;
+border-radius: 30px;
+}
+
+/* h1 {
+    font-size: 100px;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    background: linear-gradient(90deg, red, yellow, green, blue);
+    -webkit-background-clip: text;
+    background-size: 1000%;
+    transform-origin: right;
+    color: transparent;
+    animation: josse 15s linear infinite;
+}
+
+@keyframes josse {
+    0% {
+        background-position: 100% 0%;
+    }
+    50% {
+        background-position: 0% 100%;
+    }
+    100% {
+        background-position: 100% 0%;
+    }
+} */
